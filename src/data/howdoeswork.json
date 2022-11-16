@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"Invite your Friends",
+        "desc":"Share the link tutedude.com with your friends",
+        "img":"https://i.ibb.co/3rZTbyS/Vector-17.png"
+    },
+    {
+        "id":2,
+        "title":"Friend purchases any course",
+        "desc":"Using your REFERRAL CODE in the payments page",
+        "img":"https://i.ibb.co/JyZmrPZ/Vector-19.png"
+    },
+    {
+        "id":3,
+        "title":"You get ₹ 200 as referral money",
+        "desc":"On total purchase the friend makes, into your wallet",
+        "img":"https://i.ibb.co/ckg6NRS/image.png"
+    },
+    {
+        "id":4,
+        "title":"Your Friend gets ₹ 200 Off ",
+        "desc":"On his overall fee on successful purchase using your referral code ",
+        "img":"https://i.ibb.co/cT8T9ZT/Vector-20.png"
+    },
+    {
+        "id":5,
+        "title":"Transfer money from wallet",
+        "desc":"When the wallet balance reaches ₹200 or more, you can withdraw it",
+        "img":"https://i.ibb.co/FbpRqNX/Vector-18.png"
+    }
+]

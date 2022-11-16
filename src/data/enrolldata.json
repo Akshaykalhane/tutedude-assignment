@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "name":"Dhiraj Saxena",
+        "date":"14 Sep,2022",
+        "courses":["UI/UX","Photoshop","Illustrator","Python","MERN","java"],
+        "refamt":"₹185"
+    },
+    {
+        "id":2,
+        "name":"Subhash Mishra",
+        "date":"15 Sep,2022",
+        "courses":["UI/UX","Photoshop","Illustrator","Python","MERN","java"],
+        "refamt":"₹485"
+    },
+    {
+        "id":3,
+        "name":"Dhiraj Saxena",
+        "date":"17 Sep,2022",
+        "courses":["UI/UX","Photoshop","Illustrator","Python","MERN","java"],
+        "refamt":"₹485"
+    }
+]

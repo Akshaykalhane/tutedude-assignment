@@ -1,0 +1,228 @@
+
+.ref-earn {
+    max-width: 1140px;
+
+    margin: auto;
+    margin-top: 3rem;
+  }
+  
+  .ref-info{
+      max-width: 1200px;
+      padding: 20px;
+      margin: auto;
+      position: relative;
+      top: 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+  }
+  
+  .refcode{
+      max-width: 250px;
+      padding: 10px;
+      position: relative;
+  }
+  .refcode > p{
+      color: #800080;
+      font-size: 16px;
+      font-weight: 600;
+      padding-bottom: 5px;
+  }
+  .ref-code{
+      width: 150px;
+      border: 1.5px solid #DFDFDF;
+      text-align: center;
+      font-size: 16px;
+      border-radius: 10px;
+      padding: 5px;
+      letter-spacing: 10px;
+  }
+  .ref-code p{
+      font-size: 16px;
+      font-weight: 600;
+      color: #000;
+  }
+  .wallet{
+      width: 145px;
+      padding: 10px;
+      box-shadow:  0px 2px 8px rgba(128, 0, 128, 0.15);
+      border-radius: 20px;
+      position: relative;
+  }
+  .wallet .wal{
+      font-size: 14px;
+      color: #800080;
+      font-weight: 400;
+  }
+  .balance{
+      font-size: 16px;
+      font-weight: 600;
+      color: #000;
+      padding-top: 5px;
+  }
+  
+  .enroll-container{
+      max-width: 1200px;
+      padding: 20px;
+      margin: auto;
+      position: relative;
+      top: 0;
+  }
+  .enroll-container > h4{
+      color: #800080;
+      font-size: 20px;
+      font-weight: 600;
+  }
+  .count{
+      color: #a8a8a8;
+  }
+  .friends-list{
+      width: 100%;
+      position: relative;
+      top: 0;
+      display: flex;
+      padding: 10px;
+      margin-top: 10px;
+      gap: 1rem;
+      flex-wrap: wrap;
+  }
+  .friend-box{
+      width: 360px;
+      padding: 10px;
+
+      background: linear-gradient(270deg, #800080 0%, #FF864C 100%);
+      border-radius: 20px;
+      color: #fff;
+      padding: 20px 20px;
+  }
+  
+  .acc-head{
+      width: 100%;
+
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      justify-content: space-between;
+  }
+  
+  .name{
+      font-size: 16px;
+      font-weight: 700;
+  }
+  .date{
+      font-size: 14px;
+      font-weight: 400;
+  }
+  
+  .friend-box > h4{
+      font-size: 14px;
+      font-weight: 500;
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+  
+  .course-enroll{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+  }
+  .course-enroll p{
+      font-size: 14px;
+      font-weight: 400;
+      border: 1.5px solid #EEAEAE;
+      border-radius: 20px;
+      padding: 4px 9px;
+  }
+  
+  .ref-amt{
+      width: 100%;
+      margin-top: 25px;
+  }
+  .ref-amt p{
+      font-size: 16px;
+      font-weight: 400;
+  }
+  
+  .ref-amt span{
+      font-size: 24px;
+      font-weight: 600;
+      padding-left: 5px;
+  }
+  
+  .footer{
+      max-width: 1200px;
+      padding: 20px;
+      margin: auto;
+      color: #800080;
+      font-size: 16px;
+      font-weight: bold;
+      margin-top: 20px;
+      margin-bottom: 30px;
+  }
+  
+  .back-btn{
+    display: none;
+  }
+  
+  @media screen and (min-width:300px) and (max-width:600px) {
+    .nav-bar{
+      margin-top: 20px;
+    }
+    .nav-item ul{
+      display: none;
+    }
+    .select-menu{
+      background-color: #800080;
+      padding: 4px 10px;
+      border-radius: 10px;   
+    }
+    .select-menu select{
+      background-color: #800080;
+      color: #fff;
+      padding: 5px;
+      border: 10px;
+    }
+    .select-menu span{
+      display: none;
+    }
+    .ref-earn{
+      width: 400px;
+    }
+    .ref-info{
+      width: 440px;
+
+      padding: 5px;
+      margin-top: 10px;
+    }
+    .enroll-container{
+      width: 450px;
+      margin-top: 15px;
+      padding: 0px;
+    }
+    .friend-box{
+      width: 450px;
+    }
+    .friends-list{
+      padding: 0;
+      margin-top: 15px;
+    }
+    .course-enroll {
+      width: 350px;
+    }
+    .back-btn{
+      width: 200px;
+      display: flex;
+      gap: 0.8rem;
+      align-items: center;
+
+      font-size: 16px;
+      font-weight: 500;
+      color: #800080;
+      padding-top: 20px;
+      padding-bottom: 10px;
+    }
+    .footer{
+        width: 450px;
+    }
+}
